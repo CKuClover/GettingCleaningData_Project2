@@ -27,8 +27,9 @@ Detailed steps of the program are:
 
    
 The columns in the "AverageActivitySignal.txt" are: (Columns 3 through 68 are as self-explanatory as can be. I'll omit the explainations there.)
- [1] "Subject" - The subject who performed the test activity. Ranges from 1 to 30.                                                                       
- [2] "Activity" - Test activity performed. Either walking, walking- up stairs, walking- down staris, sitting, standing, or laying.                                                                     
+
+ [1] "Subject" - The subject who performed the test activity. Ranges from 1 to 30. 
+ [2] "Activity" - Test activity performed. Either walking, walking- up stairs, walking- down staris, sitting, standing, or laying.
  [3] "Time Domain Body Acceleration Signal Mean in the X-Axis"                       
  [4] "Time Domain Body Acceleration Signal Mean in the Y-Axis"                        
  [5] "Time Domain Body Acceleration Signal Mean in the Z-Axis"                        
