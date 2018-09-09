@@ -1,5 +1,5 @@
 ##### Getting and Cleaning Data- Project 2 #####
-# Suppose the folder "UCI HAR Dataset" with the datafiles is in the working directory.
+# Suppose the unzipped folder "UCI HAR Dataset" with the datafiles is in the working directory.
 
 ##### Read datasets
 Sub_test <- read.table("./UCI HAR Dataset/test/subject_test.txt")
